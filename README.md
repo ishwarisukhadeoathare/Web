@@ -1,4 +1,4 @@
-# Wanderlust
+# WanderLust – Smart Accommodation Booking Platform
 
 Wanderlust is a full-stack web application inspired by **Airbnb**, developed as part of the Apna College web development course. The platform allows users to browse, search, and book listings, showcasing a seamless integration of frontend and backend technologies.
 
